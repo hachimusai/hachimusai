@@ -1,86 +1,89 @@
-<div align="center"> 
+<div align="center">
 
-# 👋 Greetings, I'm Batuhan!
+# 👋 Hey there! I'm Batuhan
 
-I work as a Full Stack Developer at Uppsoft, based in Turkey. I'm involved in projects at Uppsoft, contributing to the realization of various ideas.
+A passionate Full Stack Developer from Turkey 🇹🇷  
+I love building useful things on the web and learning new stuff along the way.  
+Still figuring it all out – one repo at a time 🚀
 
+</div>
 
-# 🚀 Professional Focus
-- Actively contributing to projects at Uppsoft to bring ideas to life.
-- Engaging in volunteer initiatives with esteemed organizations such as Tema Foundation and Kızılay.
+---
 
-# 💻 Tech Enthusiast
-I am devoted to staying abreast of the latest technological advancements, channeling my passion for coding into meticulous and efficient solutions.
+<details>
+<summary>🇹🇷 Türkçe versiyonu görmek için tıkla</summary>
 
-# 🌱 Continuous Learning
-An advocate for perpetual growth, I approach every coding challenge as an opportunity to expand my skill set and knowledge base.
+### 👋 Selam! Ben Batuhan
 
-## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/justhyuga) 
+Türkiye'de yaşayan bir Full Stack Developer'ım.  
+Web dünyasına çözümler üretmek, fikirleri hayata geçirmek ve sürekli öğrenmek en sevdiğim şeylerden.  
+Hâlâ yolun başındayım belki ama her gün bir adım atıyorum 🚀
 
-# 💻 Tech Stack
-### Front-End
- 
-![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg)
-![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg)
-![JAVASCRIPT](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
-![SASS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass3.svg)
-![REACT](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg)
+</details>
 
+---
 
+## ⚡ What I Do
 
+- 🧪 Experimenting with tech stacks and side-projects  
+- 📦 Building small tools and apps – just for fun or utility  
+- 🌍 Open to freelance & remote collaborations  
+- 💭 Sometimes I just dive into code to get lost (in a good way)
 
-### Library
+---
 
-![BOOTSTRAP](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap3.svg)
-![TAILWINDcss](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg)
+## 🔧 Tech Stack
 
+### 💻 Frontend
 
-### State
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
 
-![REDUX](https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux3.svg)
+### ⚙️ Backend
 
- 
-### Back-end
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socketdotio&logoColor=white&style=flat)
 
-![NODEJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg)
-![NEXTJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
-![EXPRESSJS](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
-![SOCKETIO](https://ziadoua.github.io/m3-Markdown-Badges/badges/SocketIO/socketio3.svg)
-![PHP](https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php3.svg)
+### 🗃️ Database & ORM
 
-### Databases & ORM
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat)
 
-![MYSQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
-![PRISMA](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma3.svg)
-![MONGODB](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb3.svg)
+### 🧰 Other Tools
 
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white&style=flat)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
 
-### Programming
+---
 
+## 🌱 Currently Exploring
 
-![C#](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp3.svg)
-![PYTHON](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+- Microservices & scalable backend architecture  
+- Clean UI/UX practices  
+- How to turn cool ideas into usable products
 
+---
 
+## 📫 Let's Connect
 
+[![Discord](https://img.shields.io/badge/-justhyuga-5865F2?logo=discord&logoColor=white)](https://discord.gg/justhyuga)
 
+---
 
+## ✍️ Dev Quote
 
-
-### IDE
-
-
-
-
-![VISUALSTUDIOCODE](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
-### ✍️ Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=qBatu&icon=1&color=0)](https://visitcount.itsvg.in)
-
-</div>
-<div align="center">
